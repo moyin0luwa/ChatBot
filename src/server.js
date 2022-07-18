@@ -3,6 +3,7 @@
 const express = require('express')
 const app = express()
 
+// Setting up our routes with the base route as /chatbot i.e localhost:3000/chatbot
 const cbRoutes = require('./routes/chatbotRoute')
 app.use("/chatbot", cbRoutes)
 
