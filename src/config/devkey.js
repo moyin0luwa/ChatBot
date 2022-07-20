@@ -1,10 +1,9 @@
 // Here we have all our important keys
 module.exports = {
-	googleProjectId: "test-n9ct",
-	googlePrivateKeyId: "3c56d411b2006e332b797d74a820edee9dd218cb",
+	googleProjectId: ,
+	googlePrivateKeyId:,
 	googlePrivateKey:
-		"-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWN3ubG55+T98h\nMvdxt33gvwru0o/7ghEJKx4m3qPRj+rZQQWlBVigdPp1LT0m7Ak5zE1RpsvFLeOH\nGWP6YFPD7SUQ37Xjjs02sl0l/RVpj/Otrr2cXIT3ljZDQTmCLyBFAVd+3lqtUT0e\nc9h0xSKQN3LfnZNmRpWYL5JZnMXvk7taHj1fuz/d7IF/53lTGfmt1rXENACHuL1u\nrvE2isVO1wHnZRCNq2aJQ4VvAKnxWJN9LtPOFfOtTt9dBXDBymLpZCayfg+d/dmM\nQm/q/IDbjpjrXjIDt1AYrNJbYoEF0wYL2AAaBAfVxr5MzJJ//MIo1XsKhlay/5hc\nnNnQg1wlAgMBAAECggEABqcNhGEqEPdY1XVw30WKAH1jrsvzoSV1Yh0swBLOo3XE\nyYoJ3qM4/9mbwiEG7owszOfXrpi8V2yNNCc0CqXqPrU4dHaQOhnIm/wtYy07Xu9p\nDZA8RTg+VWnHaTlIMiAzmvMjQEZjGVGee9Nr+e1xWODP9CDqLFmLnTyAtEjwCTys\nfNf3g5lsdX4VDIKd7AYeLCUy/xT30oaNOiJy1JuLrVnFUvx45OWJCuosBAf70N8d\nn63YZChmk+uIrpmaY8jZhfEm9bGBM40jQVCG7mHWgKLMZPK6lR3XQiK7GYr8dW4E\n4tjWc7w4Rp4rW8fZTbGpqLvdztUD6/e7xxqJrvTRlQKBgQD7cP6dRrRaGliM0PDF\nsoLLS2ourFJdRG3V2ZXqC9mm1efI2maoydYs9WpzocDyNeKHKcqjSIRhE1TqgxH4\n+LWE2GzZHugmXbp4c1A7HRkxY5SJN3MJAeYdwNvrYc95K1v/h427JqJlj5HXW/M3\nTYjOOwOYREBfbOuoV0wibxhscwKBgQDaGbgHOf1bHMXwyQAsVuK58bw0lBVDKXf3\nOAa8PEvFHPTj8ZLgcbXWXNzRdavPEgqTjOx8i0WTKjWNPY0kLO5DkswST4eGykmM\n2KPjfCidM3i6esgCNdACUojXaRtnQuEhBfbWlaXfmc/+jVznwMzv3Mo6lUhPrxLj\nS5rC+4nHBwKBgQD1yEg6+OhGw0YXsA4LUimkCz3qDawdW0x6I8z1EUxaVvHRVhvP\nlixzmhnKmiz/Fkkukl1wKuyr77er3R9uXb8h8mTEAAAxsKEcKKwefJ0puAtz7e3W\nujJ0lxbiCaRC721oZNrYPDW2TRbkiw892d6GqQ0khGLgZJoe3eagKjSXnQKBgEVV\nW71gX/xw/zP2kgmGbXkzMeN9F+1L54k91FZOzL+S3v7/svOK8oV86+3ifIXNdHNH\nn35QQAPyrSeDY7UWW4A70IgZpDnjYNJXpHIS7E5dKIoPsjmRpdi3KC1iioWfKzZ2\nUOwSkrKskQSZJ+m8zumJxPgusNg0DcsYI9DMahZNAoGALg9tKuAifgyShjPJWu3U\nadQd6KgSmwwZN91uNVC3CKNX6fyq7tR+5Uv15QrhyOYwzVjNf5DjZ0ZDxeSVc8pn\n6hIp1HQDdD3l6vbpyrOGEw4m8vlUuvF8JBDxjTaqFXQC+GMf1Foxv2eA+6qa28X+\n1tnpcT+KfPe5jq4+R4Vm91w=\n-----END PRIVATE KEY-----\n",
-	googleClientEmail: "df-test-chatbot@test-n9ct.iam.gserviceaccount.com",
-    dialogFlowSessionID: "testing-session",
-    dialogFlowSessionLanguageCode: "en-US"
+	googleClientEmail: ,
+    dialogFlowSessionID: ,
+    dialogFlowSessionLanguageCode: 
 }
